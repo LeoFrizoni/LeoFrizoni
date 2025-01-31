@@ -15,8 +15,8 @@
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Leo-SQL" height="30" width="40" src="https://www.liblogo.com/img-logo/sq6364s5cc-sql-server-logo-sql-server-free-logo-icons.png">
-   <img align="center" alt="Leo-SQL" height="30" width="40" src="https://th.bing.com/th/id/OIP.dImV9CxQok2J8lN9PvGgNwHaGF?rs=1&pid=ImgDetMain">
+  <img align="center" alt="Leo-SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
+  <img align="center" alt="Leo-GDev" height="30" width="40" src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png">
 </div>
   
   ##
