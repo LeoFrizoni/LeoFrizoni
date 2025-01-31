@@ -17,6 +17,7 @@
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
   <img align="center" alt="Leo-GDev" height="30" width="40" src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png">
+  <img align="center" alt="Leo-GDev" height="30" width="40" src="https://th.bing.com/th/id/R.2c88a08bfbb6c476cb507eaed07630e9?rik=yDI9hc0dtzHZoA&pid=ImgRaw&r=0&sres=1&sresct=1">
 </div>
   
   ##
