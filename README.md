@@ -1,6 +1,6 @@
 ##Aopa, seja bem-vindo(a) eu sou o Léo
 
-- 🔭 Atualmente estou apenas cursando Bacharelado de Sistemas de informação(sétimo período) e também atuando como T.I
+- 🔭 Atualmente estou cursando Bacharelado de Sistemas de informação(sétimo período)
 - 🌱 Aprofundando conhecimento em React native/React
 - 📫 Meu e-mail profissional: leonardofrizonilawall@gmail.com 
 - 😄 Ele/Dele
