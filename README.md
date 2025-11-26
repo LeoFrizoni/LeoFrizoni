@@ -6,8 +6,6 @@
 - 😄 Ele/Dele
 - ⚡ Gosto de videogames/ música(em maioria Rock)/Instrumentos musicais(atualmente Guitarra, teclado e violão mas quero aprender bateria)
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFrizoni&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFrizoni&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
