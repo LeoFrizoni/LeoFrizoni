@@ -1,10 +1,11 @@
 ##Aopa, seja bem-vindo(a) eu sou o Léo
 
-- 🔭 Atualmente estou cursando Bacharelado de Sistemas de informação(sétimo período)
-- 🌱 Aprofundando conhecimento em React native/React
+- 🔭 Bacharel em Sistemas de Informação
+- 🌱 Estudando Java
 - 📫 Meu e-mail profissional: leonardofrizonilawall@gmail.com 
 - 😄 Ele/Dele
 - ⚡ Gosto de videogames/ música(em maioria Rock)/Instrumentos musicais(atualmente Guitarra, teclado e violão mas quero aprender bateria)
+- 🦇 Fã do Batman
  
 
 <div style="display: inline_block"><br>
