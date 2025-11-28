@@ -22,8 +22,8 @@ Olá! Sou Leonardo Frizoni, bacharel em Sistemas de Informação e desenvolvedor
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoFrizoni&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFrizoni&layout=compact&theme=dark)
 
 ## 📫 Contato
 
