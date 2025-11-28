@@ -1,29 +1,51 @@
-##Aopa, seja bem-vindo(a) eu sou o Léo
+# Leonardo Frizoni
 
-- 🔭 Bacharel em Sistemas de Informação
-- 🌱 Estudando Java
-- 📫 Meu e-mail profissional: leonardofrizonilawall@gmail.com 
-- 😄 Ele/Dele
-- ⚡ Gosto de videogames/ música(em maioria Rock)/Instrumentos musicais(atualmente Guitarra, teclado e violão mas quero aprender bateria)
-- 🦇 Fã do Batman
- 
+## 👨‍💻 Sobre Mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Leo-SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
-  <img align="center" alt="Leo-GDev" height="30" width="40" src="https://th.bing.com/th/id/R.2c88a08bfbb6c476cb507eaed07630e9?rik=yDI9hc0dtzHZoA&pid=ImgRaw&r=0&sres=1&sresct=1">
-</div>
-  
-  ##
+Olá! Sou Leonardo Frizoni, bacharel em Sistemas de Informação e desenvolvedor apaixonado por tecnologia e soluções criativas. Atualmente focado em expandir minhas habilidades em desenvolvimento de software, com especial interesse em Java e desenvolvimento web.
  
-<div> 
-  <a href="https://instagram.com/leo_frizoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Moon_ishida" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardofrizonilawall@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-frizoni-lawall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+## 🎓 Formação
+- **Bacharel em Sistemas de Informação**
+
+## 💼 Interesses e Objetivos
+
+- Desenvolvimento de aplicações web modernas
+- Arquitetura de software e boas práticas
+- Contribuir em projetos open source
+- Aprofundar conhecimento em backend com Java
+
+## 🎮 Sobre Mim (Fora do Código)
+
+- 🎸 **Música**: Apaixonado por Rock, toco guitarra, teclado e violão (quero aprender bateria!)
+- 🎮 **Games**: Gamer nas horas vagas
+- 🦇 **Fã do Batman**: Admirador do universo DC
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)
+
+## 📫 Contato
+
+- **Email**: leonardofrizonilawall@gmail.com
+- **LinkedIn**: [Leonardo Frizoni](https://www.linkedin.com/in/leonardo-frizoni-lawall)
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
+---
+
+**Pronomes**: Ele/Dele  
+**Localização**: Brasil 🇧🇷
+
+
