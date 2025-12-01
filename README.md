@@ -45,7 +45,6 @@ Olá! Sou Leonardo Frizoni, bacharel em Sistemas de Informação e desenvolvedor
 
 ---
 
-**Pronomes**: Ele/Dele  
 **Localização**: Brasil 🇧🇷
 
 
